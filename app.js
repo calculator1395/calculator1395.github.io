@@ -148,7 +148,7 @@ function outputCalResult (){
         error4.textContent = "ERROR: Please make sure all fields are filled with plausible values!"; // Set the text content of result to an error message
     }
 
-    // initiate the monthlyAmortizationSchedule function
+    // initiate the monthlyAmortizationSchedule function.
     monthlyAmortizationSchedule(principalLoan, monthlyInterestRate, totalNumberOfPayments, monthlyPayment, 1); // Call the monthlyAmortizationSchedule function
 }
 
