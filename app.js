@@ -151,7 +151,7 @@ function outputCalResult (){
     // initiate the monthlyAmortizationSchedule function.
     monthlyAmortizationSchedule(principalLoan, monthlyInterestRate, totalNumberOfPayments, monthlyPayment, 1); // Call the monthlyAmortizationSchedule function
 }
-
+// testing command
 
 
 
